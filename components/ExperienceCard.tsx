@@ -35,7 +35,7 @@ const experiences: Experience[] = [
     _rev: "rev-2",
     _updatedAt: "2022-12-31T00:00:00Z",
     company: "AI Association Gilgit Baltistan",
-    companyImage: { _type: "image", asset: { _ref: "/images/firebase.png", _type: "reference" } },
+    companyImage: { _type: "image", asset: { _ref: "/images/logo-AI.jpg", _type: "reference" } },
     dateStarted: "2024-03-01",
     dateEnded: "2022-12-31",
     isCurrentlyWorkingHere: true,
